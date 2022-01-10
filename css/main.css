@@ -3,5 +3,5 @@ body {
 }
 
 .bg-img {
-    background-image: url(/img/planeta.jpeg);
+    background-image: url(../img/planeta.jpeg);
 }
